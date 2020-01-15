@@ -1,3 +1,4 @@
+·#desarrollado por brayan valdebenito
 require 'uri'
 require 'net/https'
 require 'openssl'
